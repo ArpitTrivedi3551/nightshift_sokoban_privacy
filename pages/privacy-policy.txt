@@ -1,0 +1,82 @@
+Privacy Policy
+Night Shift - Sokoban Puzzle
+
+Last updated: 22 October 2026
+
+This policy explains what the Night Shift app does with your information. The
+short version: the game stores your progress on your own device, and the only
+data leaving your phone is what Google's advertising service collects in order
+to show ads.
+
+
+INFORMATION WE COLLECT OURSELVES
+
+None. There is no account, no sign-in, and no server of ours. We do not collect
+your name, email address, contacts, location, photos, or files.
+
+
+INFORMATION STORED ON YOUR DEVICE
+
+The app saves the following locally, and it never leaves your phone except in a
+device backup you control:
+
+- Bays cleared, current streak, and hint tokens
+- Your music, sound, and vibration settings
+- The date you last played the daily bay
+
+Uninstalling the app deletes all of it.
+
+
+ADVERTISING
+
+The app shows ads through Google AdMob. To do that, AdMob collects and processes
+certain data, which may include:
+
+- Your device's advertising ID
+- IP address, device model, operating system version, and coarse location
+  derived from the IP address
+- Ad interaction events, such as whether an ad was viewed or tapped
+
+This collection is performed by Google, not by us, and is governed by Google's
+own policies:
+
+Google Privacy Policy - https://policies.google.com/privacy
+How Google uses data from AdMob - https://support.google.com/admob/answer/6128543
+
+
+YOUR CHOICES ABOUT ADS
+
+Consent. If you are in the EEA, the UK, or Switzerland, the app shows a consent
+form on first launch using Google's User Messaging Platform. You can change your
+choice later from the app's privacy options where that control is offered.
+
+Reset or delete your advertising ID. Android Settings > Privacy > Ads lets you
+reset the identifier or delete it entirely.
+
+Rewarded ads are optional. Videos that grant hint tokens are only shown after
+you choose to watch one.
+
+
+CHILDREN
+
+This app is not directed at children under 13, and we do not knowingly collect
+data from them. If you believe a child has provided information through this
+app, contact us and we will address it.
+
+
+NETWORK USE
+
+The puzzles themselves are generated on your device and the game is playable
+without a connection. A connection is required to load the next bay so that an
+advertisement can be served.
+
+
+CHANGES
+
+If this policy changes, the updated version will be posted at this same address
+with a new "last updated" date.
+
+
+CONTACT
+
+Questions about this policy:  developer.gamingx@gmail.com
